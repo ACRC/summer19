@@ -1,0 +1,3 @@
+[submodule "phylobayes-mpi"]
+	path = phylobayes-mpi
+	url = git@github.com:ACRC/pbmpi.git
