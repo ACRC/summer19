@@ -1,3 +1,9 @@
 [submodule "phylobayes-mpi"]
 	path = phylobayes-mpi
 	url = git@github.com:ACRC/pbmpi.git
+[submodule "Name"]
+	path = Name
+	url = git@github.com:ACRC/NAME
+[submodule "name"]
+	path = name
+	url = git@github.com:ACRC/NAME
